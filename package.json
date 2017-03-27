@@ -1,0 +1,22 @@
+{
+  "name": "gitme",
+  "version": "1.0.0",
+  "description": "GitMe =======",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleholzinger/GitMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyleholzinger/GitMe/issues"
+  },
+  "homepage": "https://github.com/kyleholzinger/GitMe#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
